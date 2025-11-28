@@ -1,0 +1,25 @@
+.blocos{
+    height: 500px;
+    display: flex;
+    display: row;
+    align-content: space-between;
+    background-color: aquamarine;
+}
+
+.bloco1{
+    background: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.bloco2{
+    background: green;
+    width: 100px;
+    height: 300px;
+}
+
+.bloco3{
+    background: orangered;
+    width: 100px;
+    height: 200px;
+}
